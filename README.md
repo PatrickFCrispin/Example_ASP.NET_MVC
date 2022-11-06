@@ -2,7 +2,7 @@
 Primeiro projeto desenvolvido em ASP.NET MVC.
 
 ## Description
-O projeto contém um página Home e outra Sobre desenvolvida em ASP.NET MVC.
+O projeto contém um página de Home e outra de Sobre desenvolvida em ASP.NET MVC.
 
 ## Installation
 - Baixar e instalar o Visual Studio (caso não tenha);
